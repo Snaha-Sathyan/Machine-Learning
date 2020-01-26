@@ -1,3 +1,3 @@
-# Machine-Learning
+This project was done using a dataset named Individual Company Sales Dataset (taken from Kaggle).The idea was to predict whether the customer will buy the product (car) or not based on the independent features given in the dataset. The project includes pre-processing and the model fitting along with some visualization in Python.Following that is Comparison of ML models between Random Forest Classifier with default parameter and hyperparameter tuning.
 Random Forest Classifier Model with Parameter tuning along with Precision-Recall Curve & ROC Curve.Detail description of the dataset:https://www.kaggle.com/mickey1968/individual-company-sales-data
 
